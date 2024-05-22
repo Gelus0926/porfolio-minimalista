@@ -1,7 +1,7 @@
 {
     "basics": {
       "name": "Mateo Franco Sierra",
-      "label": "Analista en desarrollo y soporte",
+      "label": "Tecnico en Desarrollo de Software",
       "image": "/Mateo.jpg",
       "email": "mateofrako@gmail.com",
       "phone": "+57 3016596860",
@@ -129,26 +129,15 @@
       "reference": "Reference…"
     }],
     "projects": [{
-      "name": "Project",
+      "name": "Porfolio Minimalista",
       "isActive": true,
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
-      "description": "Description...",
+      "description": "Porfolio minimalista con información mas relevante sobre la persona.",
       "highlights": [
         "Won award at AIHacks 2016"
       ],
-      "url": "https://project.com/"
-    },
-    {
-      "name": "Project",
-      "isActive": true,
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
-      "highlights": [
-        "Won award at AIHacks 2016"
-      ],
-      "url": "https://project.com/"
+      "url": "https://github.com/Gelus0926/porfolio-minimalista"
     }
   ]
   }
