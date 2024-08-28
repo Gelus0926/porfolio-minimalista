@@ -1,12 +1,12 @@
 {
     "basics": {
       "name": "Mateo Franco Sierra",
-      "label": "Tecnico en Desarrollo de Software",
+      "label": "Técnico Asistente en Desarrollo de Software",
       "image": "/Mateo.jpg",
       "email": "mateofrako@gmail.com",
       "phone": "+57 3016596860",
       "url": "",
-      "summary": "Técnico Asistente en Desarrollo de Software, con 1 año de experiencia en el area de soporte al cliente, desempeñando funciones de atender dudas o inconvenientes que presentan los usuarios. Cuento con conocimientos en tecnologías como lo son WordPress, html, css y competencias laborales como lo son la atención a los detalles para poder identificar y poder dar soluciones a los diferentes retos que se me presentan en el día a día.",
+      "summary": "Técnico Asistente en Desarrollo de Software, con 1 año de experiencia en el área de soporte al cliente, desempeñando funciones de atención a dudas e inconvenientes presentados por los usuarios. Cuento con conocimientos en tecnologías como WordPress, HTML y CSS, así como con competencias laborales, como la atención a los detalles, que me permiten identificar y resolver los diversos retos que se presentan en el día a día.",
       "location": {
         "address": "",
         "postalCode": "CA 94115",
@@ -28,7 +28,7 @@
       "url": "",
       "startDate": "2022-06-01",
       "endDate": "2023-07-30",
-      "summary": "Description…",
+      "summary": "Mi función principal en este puesto era ayudar a los usuarios con los problemas e inquietudes que presentaban día a día en las diferentes plataformas LMS, brindándoles soluciones y comunicándome con ellos por medio del correo electrónico. Además, también me encargaba de subir y actualizar los contenidos de los cursos en las plataformas.",
       "highlights": [
         "Started the company"
       ]
@@ -48,7 +48,7 @@
         {
       "institution": "CESDE",
       "url": "https://www.cesde.edu.co/",
-      "area": "Tecnico Asistente en Desarrollo de Software",
+      "area": "Técnico Asistente en Desarrollo de Software",
       "studyType": "Bachelor",
       "startDate": "2022-01-01",
       "endDate": "2024-01-01",
