@@ -10,7 +10,7 @@
       "location": {
         "address": "",
         "postalCode": "CA 94115",
-        "city": "itagüi",
+        "city": "Medellín",
         "countryCode": "COL",
         "region": "Colombia"
       },
@@ -129,11 +129,11 @@
       "reference": "Reference…"
     }],
     "projects": [{
-      "name": "Porfolio Minimalista",
+      "name": "Portafolio Minimalista",
       "isActive": true,
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
-      "description": "Porfolio minimalista con información mas relevante sobre la persona.",
+      "description": "Portafolio minimalista con información mas relevante sobre la persona.",
       "highlights": [
         "Won award at AIHacks 2016"
       ],
