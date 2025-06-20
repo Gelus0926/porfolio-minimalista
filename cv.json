@@ -6,7 +6,7 @@
       "email": "mateofrako@gmail.com",
       "phone": "+57 3016596860",
       "url": "",
-      "summary": "Técnico Asistente en Desarrollo de Software, con 1 año de experiencia en el área de soporte al cliente, desempeñando funciones de atención a dudas e inconvenientes presentados por los usuarios. Cuento con conocimientos en tecnologías como WordPress, HTML y CSS, así como con competencias laborales, como la atención a los detalles, que me permiten identificar y resolver los diversos retos que se presentan en el día a día.",
+      "summary": "Técnico Asistente en Desarrollo de Software con experiencia en soporte al cliente, especializado en la atención y resolución de incidencias técnicas de manera efectiva y oportuna. Manejo tecnologías como WordPress, HTML y CSS, y destaco por mi atención al detalle y enfoque en la mejora continua, lo que me permite afrontar con eficacia los desafíos cotidianos del entorno digital.",
       "location": {
         "address": "",
         "postalCode": "CA 94115",
@@ -28,11 +28,22 @@
       "url": "",
       "startDate": "2022-06-01",
       "endDate": "2023-07-30",
-      "summary": "Mi función principal en este puesto era ayudar a los usuarios con los problemas e inquietudes que presentaban día a día en las diferentes plataformas LMS, brindándoles soluciones y comunicándome con ellos por medio del correo electrónico. Además, también me encargaba de subir y actualizar los contenidos de los cursos en las plataformas.",
+      "summary": "Contactar usuarios de plataformas LMS, resolviendo sus inquietudes y problemas de forma oportuna mediante atención personalizada por diferentes medios de contacto. Encargo de la gestión y actualización de contenidos académicos en múltiples plataformas, garantizando la disponibilidad y precisión del material formativo",
       "highlights": [
         "Started the company"
       ]
-    }],
+    },
+    {
+      "name": "Arya48",
+      "position": "Asesor de Ventas y Atención al Cliente",
+      "url": "",
+      "startDate": "2025-01-15",
+      "endDate": "2025-06-30",
+      "summary": "Prospección y atención al cliente, facilitando la adquisición de suscripciones y asegurando una comunicación constante que permita fortalecer la relación de los usuarios con la plataforma.",
+      "highlights": [
+        "Started the company"
+      ]
+    }],    
     "volunteer": [{
       "organization": "Organization",
       "position": "Volunteer",
