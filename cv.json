@@ -97,14 +97,14 @@
       },
       {
         "name": "CSS",
-        "level": "",
+        "level": "Medio",
         "keywords": [
           "Desarrollo Web", "Frontend", "Diseño Responsive"
         ]  
       },
       {
         "name": "Wordpress",
-        "level": "Medio",
+        "level": "",
         "keywords": [
           "Desarrollo Web", "Frontend"
         ]
@@ -119,6 +119,13 @@
       {
         "name": "GitHub",
         "level": "Medio",
+        "keywords": [
+          "Versionamiento", "Repositorios"
+        ]
+      },
+      {
+        "name": "Excel-Basico/Intermedio",
+        "level": "Basico/intermedio",
         "keywords": [
           "Versionamiento", "Repositorios"
         ]
